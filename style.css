@@ -285,7 +285,7 @@ color:#D4AF37;
 .banner{
 height:100vh;
 background:linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.7)),
-url("/imagem.png");
+url("./imagem.png");
 background-size:cover;
 display:flex;
 align-items:center;
